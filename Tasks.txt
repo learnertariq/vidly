@@ -1,0 +1,6 @@
+// create like component
+// get isLiked and onLike via props
+// test the like component
+// make a new state isLiked on the consumer of like component
+// make a new func handleLike based on onLike on the consumer of like component
+// conditionally render fa depending on the value of isLiked
